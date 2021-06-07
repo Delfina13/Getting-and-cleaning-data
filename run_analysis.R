@@ -1,4 +1,7 @@
+#Loading required packages
 library(dplyr)
+
+#Download the dataset
 filename <- "Coursera_DS3_Final.zip"
 
 # Checking if archieve already exists.
